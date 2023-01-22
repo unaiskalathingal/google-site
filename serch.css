@@ -1,0 +1,28 @@
+.main{
+  width: 580px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.serchbox{
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+}
+.serch{
+    width: 100%;
+padding: 13px;
+padding-left: 45px;
+padding-right: 60px;
+border-radius: 30px;
+border: 1px solid #ccc ;
+outline: none;
+font-size: 16px;
+}
+.icon{
+    position: absolute;
+    top: 0;
+    width:100%;
+    display: flex;
+
+}
